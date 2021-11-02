@@ -1,9 +1,12 @@
 # horiseonRefactor-dp# 01 HTML, CSS, and Git: Code Refactor
 
 
-corrected with ID tag to make Search Engine Optimization navigate to description on the page
+checked all links to verify they work. corrected with ID tag to to make link navigate to description on the page
 
-consolidate all repeating codes into a cleaner format by creating a blanket class
+consolidate all repeating codes into a cleaner format by creating a blanket class. minimized any repetition
+
+attempted to simplify 
+
 
 added ALT tags as needed. 
 
